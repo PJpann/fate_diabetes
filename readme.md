@@ -6,4 +6,4 @@
 5)编写dsl.json和conf.json文件，提交训练和验证任务。
  提交任务命令：flow job submit -d homosecureboostmultihost_dsl.json -c  homosecureboost_multihost_conf.json
 6)联邦学习配置文件：homosecureboost_dsl.json; homosecureboost_multihost_conf.json
-7)中心学习化学习的配置文件：homosecureboost_dsl.json;homosecureboost.json
+7)中心学习化学习的配置文件：homosecureboost_dsl.json;homosecureboost_conf.json
