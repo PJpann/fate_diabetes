@@ -1,0 +1,8 @@
+  {
+    "file": "split_user_X.csv",#指定数据文件（路径名要正确）X修改为对应的user文件
+    "head":1,
+    "partition": 10,
+    "work_mode": 0,
+    "table_name": "homo_user_1",#指定DTable表名
+    "namespace": "experiment" 
+}
